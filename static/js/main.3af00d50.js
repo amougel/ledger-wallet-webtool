@@ -36025,7 +36025,7 @@ var Well = function (_React$Component) {
 "use strict";
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react__ = __webpack_require__(0);
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0_react___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0_react__);
-function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"Home"},"This is Home");}/* harmony default export */ __webpack_exports__["a"] = (Home);
+function Home(){return __WEBPACK_IMPORTED_MODULE_0_react___default.a.createElement("div",{className:"Home"},"Please follow the instructions provided by our support.");}/* harmony default export */ __webpack_exports__["a"] = (Home);
 
 /***/ }),
 /* 400 */
@@ -74706,4 +74706,4 @@ registerValidSW(swUrl);}}).catch(function(){console.log('No internet connection 
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=main.94ed300b.js.map
+//# sourceMappingURL=main.3af00d50.js.map

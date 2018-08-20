@@ -155,7 +155,7 @@ const networks = {
       scriptHash: 5,
       wif: 128
     },
-    isSegwitSupported: false,
+    isSegwitSupported: true,
     handleFeePerByte: false,
     areTransactionTimestamped: false
   },
@@ -270,7 +270,7 @@ const networks = {
     isSegwitSupported: false,
     handleFeePerByte: false,
     areTransactionTimestamped: undefined,
-    expiryHeight: Buffer.from("00000000", 'hex')
+    expiryHeight: Buffer.from("00000000", "hex")
   },
   141: {
     name: "komodo",
@@ -333,7 +333,7 @@ const networks = {
       pubKeyHash: 0x2089,
       scriptHash: 0x2096,
       wif: 128
-    },
+    }
   },
   3: {
     name: "dogecoin",
@@ -346,7 +346,7 @@ const networks = {
       pubKeyHash: 30,
       scriptHash: 22,
       wif: 128
-    },
+    }
   }
 };
 
